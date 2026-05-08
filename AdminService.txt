@@ -1,0 +1,3 @@
+This is an admin that can do the adminwork
+1, Delete
+2, addcdds
